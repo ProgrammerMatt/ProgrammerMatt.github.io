@@ -6,16 +6,16 @@
 #   isCurrent: bool - indicating currently reading
 #   completeDate: date of completion
 
-- title: Operations Anti-Patterns, DevOps Solutions
-  author: Jeffery D. Smith
-  summary: \"Operations Anti-Patterns, DevOps Solutions shows how to implement DevOps techniques in the kind of imperfect environments most developers work in. Part technology tutorial, part reference manual, and part psychology handbook, this practical guide shows you realistic ways to bring DevOps to your team when you don’t have the flexibility to make sweeping changes in organizational structure.\"
-  link: https://amzn.to/3Pqgvmz
-  startDate: 2022-07-10
+- title: "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values"
+  author: Robert M. Pirsig
+  summary: \"A narration of a summer motorcycle trip undertaken by a father and his son, Zen and the Art of Motorcycle Maintenance becomes a personal and philosophical odyssey into fundamental questions on how to live. The narrator's relationship with his son leads to a powerful self-reckoning; the craft of motorcycle maintenance leads to an austerely beautiful process for reconciling science, religion, and humanism. Resonant with the confusions of existence, this classic is a touching and transcendent book of life.\"
+  link: https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry-ebook/dp/B0026772N8/ref=sr_1_1?crid=1HZ7XSAT87XR&keywords=zen+and+the+art+of+motorcycle+maintenance&qid=1675025970&sprefix=%2Caps%2C285&sr=8-1
+  startDate: 2022-12-18
   isCurrent: true
 
 - title: "Staff Engineer: Leadership beyond the management track"
   author: Will Larson
   summary: \"Overall I think this book mostly reinforced things I already knew. It's interesting to see different opinions and paths to being promoted, though. It makes me think that really most engineers can get to the level if they are in the right place at the right time and are good at marketing themselves through either impactful work or mentorship.\"
   link: https://www.amazon.com/Staff-Engineer-Leadership-beyond-management/dp/1736417916
-  rating: ⭐⭐⭐⭐⭐
+  rating: ⭐⭐⭐⭐
   completeDate: 2022-12-18

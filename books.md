@@ -26,8 +26,6 @@ description: Book reviews
     }
 </style>
 
-In order to try and enforce a habit of reading daily, I'm making this a public page on my blog. With a full year calendar to indicate the days I've read. Similar to the ["Every Day Calendar" by Simone Giertz](https://www.simonegiertz.com/every-day-calendar){:target="_blank"}...but I can't afford one, and this site is free.
-
 ## Current book:
 {% assign currentBooks = site.data.books | where: "isCurrent", true %}
 {% for book in currentBooks %}
