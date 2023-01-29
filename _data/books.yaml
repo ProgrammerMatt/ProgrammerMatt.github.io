@@ -1,0 +1,21 @@
+# - title: Title of the book
+#   author: list of authors
+#   summary: personal/official summary of book
+#   link: link to purchase book
+#   rating: ⭐⭐⭐⭐⭐ (review of book using star emojis)
+#   isCurrent: bool - indicating currently reading
+#   completeDate: date of completion
+
+- title: Operations Anti-Patterns, DevOps Solutions
+  author: Jeffery D. Smith
+  summary: \"Operations Anti-Patterns, DevOps Solutions shows how to implement DevOps techniques in the kind of imperfect environments most developers work in. Part technology tutorial, part reference manual, and part psychology handbook, this practical guide shows you realistic ways to bring DevOps to your team when you don’t have the flexibility to make sweeping changes in organizational structure.\"
+  link: https://amzn.to/3Pqgvmz
+  startDate: 2022-07-10
+  isCurrent: true
+
+- title: \"Staff Engineer: Leadership beyond the management track\"
+  author: Will Larson
+  summary: \"Overall I think this book mostly reinforced things I already knew. It's interesting to see different opinions and paths to being promoted, though. It makes me think that really most engineers can get to the level if they are in the right place at the right time and are good at marketing themselves through either impactful work or mentorship.\"
+  link: https://www.amazon.com/Staff-Engineer-Leadership-beyond-management/dp/1736417916
+  rating: ⭐⭐⭐⭐⭐
+  completeDate: 2022-12-18
