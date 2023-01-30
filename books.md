@@ -67,7 +67,7 @@ description: Book reviews
 ## Past reviews and recommendations:
 
 {% assign pastBooks = site.data.books
-        | where_exp: "item", "item.completeDate < currentYearRecord[0].start"
+        | where_exp: "item", "item.isCurrent == false"
         | sort: "title"
 %}
 {% for book in pastBooks %}
