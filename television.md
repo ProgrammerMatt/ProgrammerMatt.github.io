@@ -2,12 +2,18 @@
 layout: page
 title: Movies & TV
 ---
-asdf
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+
+<style>
+    li {
+        margin-bottom: 5px;
+    }
+</style>
+
+{% assign pastShows = site.data.television
+        | sort: "title"
+%}
+{% for show in pastShows %}
+  <b>{{ show.title }}</b>
+{% if show.rating %}  * My rating: {{ show.rating }}{% endif %}
+{% if show.summary %}  * Summary: {{ show.summary }}{% endif %}
 {% endfor %}

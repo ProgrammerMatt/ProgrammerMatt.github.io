@@ -1,0 +1,19 @@
+# - title: Title of the book
+#   author: list of authors
+#   summary: personal/official summary of book
+#   link: link to purchase book
+#   rating: ⭐⭐⭐⭐⭐ (review of book using star emojis)
+#   isCurrent: bool - indicating currently reading
+#   completeDate: date of completion
+
+- title: "That 90's Show"
+  platform: Netflix
+  summary: "I never watched that 70's show in its entirety, just parts here and there when I was younger. Makes me want to give it a try. Very light show with quick episodes, kept my attention enough. Didn't seem super woke either which I appreciate."
+  rating: ⭐⭐⭐⭐
+  watchedDate: 2023-01
+
+- title: "Hustle"
+  platform: Netflix
+  summary: I enjoy playing basketball more than watching basketball, but I've always really liked Adam Sandler. Even as a very casual basketball spectator, though, I enjoyed all the celebrities/pro players they managed to get into the movie. 
+  rating: ⭐⭐⭐⭐⭐
+  watchedDate: 2023-01
