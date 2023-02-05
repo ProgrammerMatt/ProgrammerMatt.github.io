@@ -6,12 +6,18 @@
 #   isCurrent: bool - indicating currently reading
 #   completeDate: date of completion
 
+- title: "Candide"
+  author: Voltaire
+  link: https://www.amazon.com/Candide-Voltaire/dp/1503253791
+  startDate: 2023-2-4
+  isCurrent: true
+
 - title: "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values"
   author: Robert M. Pirsig
-  summary: "A narration of a summer motorcycle trip undertaken by a father and his son, Zen and the Art of Motorcycle Maintenance becomes a personal and philosophical odyssey into fundamental questions on how to live. The narrator's relationship with his son leads to a powerful self-reckoning; the craft of motorcycle maintenance leads to an austerely beautiful process for reconciling science, religion, and humanism. Resonant with the confusions of existence, this classic is a touching and transcendent book of life."
+  summary: "Read this as part of a \"book club\" with some friends. Overall it is interesting but it is honestly more philosophical and rambling than I think I would have liked. About halfway through I decided to look for an audiobook version to help get through it more easily lol (https://primeaudiobook.com/zen-and-the-art-of-motorcycle-maintenance-audiobook/). It is a popular book and if you want to think a bit deeper and listen to Robert Pirsig stroke his own intellectual ego, it might be worth trying."
   link: https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry-ebook/dp/B0026772N8/ref=sr_1_1?crid=1HZ7XSAT87XR&keywords=zen+and+the+art+of+motorcycle+maintenance&qid=1675025970&sprefix=%2Caps%2C285&sr=8-1
-  startDate: 2022-12-19
-  isCurrent: true
+  rating: ⭐⭐⭐
+  completeDate: 2023-1-30
 
 - title: "Staff Engineer: Leadership beyond the management track"
   author: Will Larson

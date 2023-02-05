@@ -6,13 +6,19 @@
 #   isCurrent: bool - indicating currently reading
 #   completeDate: date of completion
 
-- title: "That 90's Show"
+- title: "<a href='https://www.imdb.com/title/tt1392214/'>Prisoners</a>"
+  platform: Netflix
+  summary: "I never watched that 70's show in its entirety, just parts here and there when I was younger. Makes me want to give it a try. Very light show with quick episodes, kept my attention enough. Didn't seem super woke either which I appreciate."
+  rating: ⭐⭐⭐⭐⭐
+  watchedDate: 2023-01-05
+
+- title: "<a href='https://www.imdb.com/title/tt15591076/'>That '90s Show</a>"
   platform: Netflix
   summary: "I never watched that 70's show in its entirety, just parts here and there when I was younger. Makes me want to give it a try. Very light show with quick episodes, kept my attention enough. Didn't seem super woke either which I appreciate."
   rating: ⭐⭐⭐⭐
   watchedDate: 2023-01
 
-- title: "Hustle"
+- title: "<a href='https://www.imdb.com/title/tt8009428/'>Hustle</a>"
   platform: Netflix
   summary: I enjoy playing basketball more than watching basketball, but I've always really liked Adam Sandler. Even as a very casual basketball spectator, though, I enjoyed all the celebrities/pro players they managed to get into the movie. 
   rating: ⭐⭐⭐⭐⭐
