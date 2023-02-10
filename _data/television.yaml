@@ -6,10 +6,21 @@
 #   isCurrent: bool - indicating currently reading
 #   completeDate: date of completion
 
+- title: "<a href='https://www.imdb.com/title/tt0393162/'>Coach Carter</a>"
+  platform: Netflix
+  summary: "Watched this to prep for some hoops myself, didn't work. But I like a laid back sports movie."
+  rating: ⭐⭐⭐⭐⭐
+  watchedDate: 2023-02-08
+
+- title: "<a href='https://www.imdb.com/title/tt1016150/'>All quiet on the Western Front</a>"
+  platform: Netflix
+  summary: "Felt like I was in the trenches of WW1"
+  rating: ⭐⭐⭐⭐⭐
+  watchedDate: 2023-02-06
+
 - title: "<a href='https://www.imdb.com/title/tt1392214/'>Prisoners</a>"
   platform: Netflix
-  summary: "I never watched that 70's show in its entirety, just parts here and there when I was younger. Makes me want to give it a try. Very light show with quick episodes, kept my attention enough. Didn't seem super woke either which I appreciate."
-  rating: ⭐⭐⭐⭐⭐
+  rating: ⭐⭐⭐⭐
   watchedDate: 2023-01-05
 
 - title: "<a href='https://www.imdb.com/title/tt15591076/'>That '90s Show</a>"

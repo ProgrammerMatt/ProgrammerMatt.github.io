@@ -2,7 +2,7 @@
 layout: page
 title: Movies & TV
 ---
-
+This is mostly to serve a reminder to me for which movies I've actually watched. I have a poor memory so want a way to reflect.
 <style>
     li {
         margin-bottom: 5px;
